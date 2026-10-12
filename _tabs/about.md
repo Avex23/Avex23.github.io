@@ -3,6 +3,4 @@
 icon: fas fa-info-circle
 order: 4
 ---
-
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Just a wonderer looking to learn and explore the world of tech. Imposter syndrom is inescable but thats never stopped the greats, so why should it stop you or me. 
